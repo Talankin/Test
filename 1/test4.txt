@@ -1,0 +1,7 @@
+fffffffff
+ggggggggg
+kkkkkkkkk
+
+branch slave. second commit
+hiiiiii
+new string gui branch test
